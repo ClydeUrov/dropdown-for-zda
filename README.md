@@ -1,3 +1,17 @@
+# Реалізація кастомного Dropdown Компонента
+
+Реалізовано React компонент кастомного dropdown згідно з макетом Figma  
+([посилання](https://www.figma.com/file/SrLVRAExtOdmVZkv1coVrV/Untitled?type=design&node-id=0-4362&t=l0tD8W6qK63jKYvO-0)).
+
+## Основний функціонал
+
+- Dropdown відкривається по **кліку** або при **фокусі**, повторний клік закриває його.  
+- Закривається при відкритті іншого dropdown на сторінці або втраті фокусу.  
+- Підтримка **кастомного рендерингу елементів списку** та обраного варіанту.  
+- Поле пошуку з можливістю **асинхронного пошуку** через кастомну функцію (`searchFunction`).  
+- Плавна **анімація появи/зникнення**, підтримка клавіатурної навігації (ArrowUp/Down, Enter, Escape).  
+- Адаптивна стилізація відповідно до макету Figma.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
