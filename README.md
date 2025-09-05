@@ -12,6 +12,13 @@
 - Плавна **анімація появи/зникнення**, підтримка клавіатурної навігації (ArrowUp/Down, Enter, Escape).  
 - Адаптивна стилізація відповідно до макету Figma.
 
+### Приклад вводу до Асинхронного пошуку користувачів:
+
+- alex@example.com
+- maria@example.com
+- dmitro@example.com
+- anna@example.com
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
